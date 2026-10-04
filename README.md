@@ -1,3 +1,8 @@
+
+
+Avialabale on itch.io==  https://spixcy.itch.io/the-autis
+
+
 # 🌿 Autis — Open World Survival Game
 
 **Autis** is a 3D open-world survival game built in Unity. Explore a lush procedurally-scattered terrain, chop trees, mine rocks, craft gear, fight enemies, and build your way to survival.
